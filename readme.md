@@ -1,6 +1,8 @@
 # hex2tailwind
 
-Converts Hex Colors to Tailwind CSS Color Names
+Converts Hex Colors to Tailwind CSS Color Names.
+
+You can learn more about the reasoning behind creating this package in my blog post [here](https://choosealicense.com/licenses/mit/)
 
 # Installation
 
