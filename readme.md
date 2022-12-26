@@ -2,7 +2,7 @@
 
 Converts Hex Colors to Tailwind CSS Color Names.
 
-You can learn more about the reasoning behind creating this package in my blog post [here](https://choosealicense.com/licenses/mit/)
+You can learn more about the reasoning behind creating this package in my blog post [Here](https://www.taoufiqlotfi.tech/blog/post/creating-my-first-npm-package-converting-hex-colors-to-tailwind-css-color-names)
 
 # Installation
 
