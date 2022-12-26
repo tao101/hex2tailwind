@@ -7,5 +7,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Taoufiq <admin@taoufiqLotfi.tech> (http://taoufiqlotfi.tech/)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tao101/hex2tailwind.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "bugs": {
+    "url": "https://github.com/tao101/hex2tailwind/issues"
+  },
+  "homepage": "https://github.com/tao101/hex2tailwind#readme",
+  "dependencies": {
+    "flat": "^5.0.2",
+    "nearest-color": "^0.4.4",
+    "tailwindcss": "latest"
+  }
+  
 }
