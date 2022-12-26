@@ -22,8 +22,10 @@ function hex2tailwind(color) {
   if (/^#([0-9A-F]{3}){1,2}$/i.test(color)) {
     return nearestColor(color).name;
   } else {
-    return 'Wrong Hex syntax. Please use #xxx or #xxxxxx.';
+    throw new Error('Wrong Hex color syntax. Please use #xxx or #xxxxxx.');
   }
 }
 
 module.exports = hex2tailwind;
+
+console.log('color ', hex2tailwind('#34C34C'));

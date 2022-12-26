@@ -4,7 +4,7 @@
   "description": "Converts Hex Colors to Tailwind CSS Color Names",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Taoufiq <admin@taoufiqLotfi.tech> (http://taoufiqlotfi.tech/)",
   "license": "ISC",
@@ -23,6 +23,8 @@
     "flat": "^5.0.2",
     "nearest-color": "^0.4.4",
     "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
   }
-  
 }
