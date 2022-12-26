@@ -1,6 +1,6 @@
 {
   "name": "hex2tailwind",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts Hex Colors to Tailwind CSS Color Names",
   "main": "index.js",
   "scripts": {
