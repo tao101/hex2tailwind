@@ -1,0 +1,11 @@
+{
+  "name": "hex2tailwind",
+  "version": "1.0.0",
+  "description": "Converts Hex Colors to Tailwind CSS Color Names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taoufiq <admin@taoufiqLotfi.tech> (http://taoufiqlotfi.tech/)",
+  "license": "ISC"
+}
