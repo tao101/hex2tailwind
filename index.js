@@ -27,5 +27,3 @@ function hex2tailwind(color) {
 }
 
 module.exports = hex2tailwind;
-
-console.log('color ', hex2tailwind('#34C34C'));

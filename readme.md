@@ -15,7 +15,7 @@ const Hex2tailwind = require('hex2tailwind');
 
 const hexColor = '#33ccff';
 const tailwindClass = Hex2tailwind(hexColor);
-console.log(tailwindClass); // Outputs: "text-blue-500"
+console.log(tailwindClass); // Outputs: "sky-500"
 ```
 
 ## License
